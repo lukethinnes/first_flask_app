@@ -5,4 +5,3 @@ def create_app():
     app.config['SECRET_KEY'] = 'dj38gh376sbem'
 
     return app
-
